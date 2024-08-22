@@ -49,6 +49,7 @@ body {
 /* -------------Body area of Home page------------ */
 #main-home {
     margin-top: 120px;
+
 }
 
 /* -------------Footer area------------ */
@@ -81,6 +82,7 @@ body {
     margin-top: 119px;
     background: url('images/map-blur.png');
     background-repeat: repeat-y;
+    background-size: cover;
 }
 
 #content {
